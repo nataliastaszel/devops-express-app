@@ -22,8 +22,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
       
-      - name: Run tests
+      - name: Run tests with Quality Gate (coverage threshold 70%)
         run: npm test -- --coverage --ci
+
       
       - name: Upload test results
         if: always()
