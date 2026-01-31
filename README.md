@@ -36,3 +36,12 @@ npm test
 Projekt zawiera testy dla obu endpointów sprawdzające poprawność kodów odpowiedzi oraz struktury danych.
 
 
+## Aplikacja dostępna publicznie
+
+Aplikacja dostępna publicznie pod linkiem: 
+
+https://devops-express-nsc-fwb2bmdpeme2haa8.polandcentral-01.azurewebsites.net
+
+Endpoint produktów dostępny pod linkiem:
+
+https://devops-express-nsc-fwb2bmdpeme2haa8.polandcentral-01.azurewebsites.net/products
